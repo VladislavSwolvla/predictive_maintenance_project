@@ -69,3 +69,9 @@ streamlit run app.py
 - Презентация проекта с помощью `streamlit-reveal-slides`
 
 ---
+
+## 🎥 Видео-демонстрация
+
+https://youtu.be/T58GWDRGo7I
+
+---
