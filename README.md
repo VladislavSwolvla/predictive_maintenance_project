@@ -40,7 +40,7 @@ https://archive.ics.uci.edu/dataset/601/predictive+maintenance+dataset
 
 ```bash
 git clone https://github.com/VladislavSwolvla/FinalWork.git
-cd predictive_maintenance_project
+cd FinalWork
 ```
 
 ### 2. Установите зависимости
